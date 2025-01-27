@@ -36,11 +36,11 @@
     font-size: 20px;
     line-height: 32px;
     letter-spacing: 2%;
-    max-width: 582.71px;
+    max-width: 582px;
     width: 100%;
     max-height: 96px;
     margin-left: 200px;
-    margin-top: 31px;
+    margin-top: 10px;
     color: #9A9A9A;
 }
 
@@ -49,65 +49,26 @@
     height: 64px;
     background-color: #A3DC00;
     border-radius: 6px;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* .navbar-items {
     font-family: "Roboto", serif;
     font-style: normal;
+    font-weight: bold;
     font-size: 16px;
+    line-height: 32px;
     letter-spacing: 2%;
-    line-height: 24px;
-    justify-items: left;
-    display: flex;
-    gap: 38px;
-    margin-top: 48px;
-    margin-left: 99.5px;
-    border: solid;
+    color: #FFFFFF;
+    border: none;
+    margin-top: 50px;
+    margin-left: 200px;
 }
 
-.sign-in {
-    margin-left: 742px;
-    background: none;
-    border: none;
-    margin-top: 48px;
-} */
-
-
-/* * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-} */
-
-/* header {
-    position: fixed;
-    top: 0;
-    left: 0;
+.yoga {
+    max-width: 756px;
+    max-height: 638px;
     width: 100%;
-    padding: 20px, 100px;
-    display: flex;
-    z-index: 100;
-    box-sizing: border-box;
-    border: solid;
-} */
+    margin-left: 10px;
+    margin-top: -290px;
+    align-content: top;
+}
+section {
+    display: inline-block;
+}
