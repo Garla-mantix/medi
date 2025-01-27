@@ -1,32 +1,43 @@
-header {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    padding: 20px, 100px;
-    display: flex;
-    z-index: 100;
-    box-sizing: border-box;
-}
-
 .logo {
     font-family: "Montserrat", serif;
     font-style: normal;
     font-weight: bold;
     font-size: 30px;
     line-height: 48px;
-    letter-spacing: 0,02em;
+    letter-spacing: -0,02em;
     color: #0A1B32;
     margin-top: 37px;
     margin-left: 78px;
     margin-right: 99.5px;
+    border: solid;
 }
 
 .logo-dot {
-    color: #4F56F1;
+    color: #A3DC00;
 }
 
-.navbar-items {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .navbar-items {
     font-family: "Roboto", serif;
     font-style: normal;
     font-size: 16px;
@@ -39,3 +50,29 @@ header {
     margin-left: 99.5px;
     border: solid;
 }
+
+.sign-in {
+    margin-left: 742px;
+    background: none;
+    border: none;
+    margin-top: 48px;
+} */
+
+
+/* * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} */
+
+/* header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px, 100px;
+    display: flex;
+    z-index: 100;
+    box-sizing: border-box;
+    border: solid;
+} */
