@@ -26,16 +26,16 @@ header {
     color: #4F56F1;
 }
 
-.navbar {
-    
-}
 .navbar-items {
     font-family: "Roboto", serif;
-
+    font-style: normal;
+    font-size: 16px;
+    letter-spacing: 2%;
+    line-height: 24px;
     justify-items: left;
     display: flex;
     gap: 38px;
     margin-top: 48px;
     margin-left: 99.5px;
+    border: solid;
 }
-
